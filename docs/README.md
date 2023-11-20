@@ -12,14 +12,14 @@
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-### Windows PC
+### Windows电脑
 
-{% content-ref url="windows-pc/qv2ray-win.md" %}
-[qv2ray-win.md](windows-pc/qv2ray-win.md)
+{% content-ref url="windows-pc/clash-for-windows.md" %}
+[clash-for-windows.md](windows-pc/clash-for-windows.md)
 {% endcontent-ref %}
 
-### Mac OS
+### Mac电脑
 
-{% content-ref url="mac-os/chashx.md" %}
-[chashx.md](mac-os/chashx.md)
+{% content-ref url="mac-os/chash.md" %}
+[chash.md](mac-os/chash.md)
 {% endcontent-ref %}

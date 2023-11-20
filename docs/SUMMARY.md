@@ -12,11 +12,11 @@
 * [Shadowrocket（小火箭）](ios/shadowrocket.md)
 * [常见问题](ios/chang-jian-wen-ti.md)
 
-## Windows PC
+## Windows电脑 <a href="#windows-pc" id="windows-pc"></a>
 
-* [Qv2ray-Win](windows-pc/qv2ray-win.md)
-* [Qv2ray常见问题](windows-pc/qv2ray-chang-jian-wen-ti.md)
+* [Clash for Windows](windows-pc/clash-for-windows.md)
+* [常见问题](windows-pc/chang-jian-wen-ti.md)
 
-## Mac OS
+## Mac电脑 <a href="#mac-os" id="mac-os"></a>
 
-* [ChashX](mac-os/chashx.md)
+* [Chash](mac-os/chash.md)
